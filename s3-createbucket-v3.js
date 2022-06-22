@@ -6,7 +6,8 @@ Inputs (replace in code):
 Running the code:
 nodes3_createbucket.js
 
-GITTIÄ VARTEN, TÄÄ ON DEVISSÄ TEHTY MUUTOS pakkopushauksen jälkeen. Se toimi, kokeillaan nyt uudestaan pelkällä git push komennolla.
+GITTIÄ VARTEN, TÄÄ ON DEVISSÄ TEHTY MUUTOS pakkopushauksen jälkeen. 
+Tässä on DEV2 branchin tiedosto.
 */
 
 // snippet-start:[s3.JavaScript.buckets.createBucketV3]
