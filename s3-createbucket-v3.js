@@ -5,6 +5,8 @@ Inputs (replace in code):
 - BUCKET_NAME
 Running the code:
 nodes3_createbucket.js
+
+GITTIÄ VARTEN, TÄÄ ON DEVISSÄ TEHTY MUUTOS
 */
 
 // snippet-start:[s3.JavaScript.buckets.createBucketV3]
