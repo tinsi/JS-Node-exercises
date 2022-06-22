@@ -5,6 +5,8 @@ Inputs (replace in code):
 - BUCKET_NAME
 Running the code:
 nodes3_createbucket.js
+
+Tehdään tänne dev3 muutoksia, pystyiskö näitä nyt sitten mergettää?
 */
 
 // snippet-start:[s3.JavaScript.buckets.createBucketV3]
