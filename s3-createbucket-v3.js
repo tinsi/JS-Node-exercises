@@ -6,7 +6,11 @@ Inputs (replace in code):
 Running the code:
 nodes3_createbucket.js
 
+<<<<<<< HEAD
 Tehdään tänne dev3 muutoksia, pystyiskö näitä nyt sitten mergettää?
+=======
+GITTIÄ VARTEN, TÄÄ ON DEVISSÄ TEHTY MUUTOS pakkopushauksen jälkeen. Se toimi, kokeillaan nyt uudestaan pelkällä git push komennolla.
+>>>>>>> dev
 */
 
 // snippet-start:[s3.JavaScript.buckets.createBucketV3]
